@@ -1,7 +1,7 @@
 {
-  "name": "Rango Blog",
-  "short_name": "Rango Blog",
-  "description": "Yet another software engineer oversharing.",
+  "name": "0x5t Blog",
+  "short_name": "0x5t Blog",
+  "description": "0x5t's Blog | Ethical Hacking, CTFs, & More.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
