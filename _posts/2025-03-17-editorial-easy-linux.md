@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Practice Writeup: Exploiting SSRF and Privilege Escalation in Editorial"
+title: "Exploiting SSRF and Privilege Escalation in Editorial"
 author: "0x5t"
 catalog: true
 header-img: "img/post-bg-digital-native.jpg"
