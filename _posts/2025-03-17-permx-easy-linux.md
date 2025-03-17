@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Exploiting File Upload and Privilege Escalation in Editorial"
+title: "Exploiting File Upload and Privilege Escalation in PermX"
 author: "0x5t"
 catalog: true
 header-img: "img/post-bg-digital-native.jpg"
