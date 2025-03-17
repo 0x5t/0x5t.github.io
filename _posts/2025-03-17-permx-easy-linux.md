@@ -1,4 +1,19 @@
+---
 
+layout: post
+title: "Exploiting File Upload and Privilege Escalation in Editorial"
+author: "0x5t"
+catalog: true
+header-img: "img/post-bg-digital-native.jpg"
+header-mask: 0.4
+tags:
+
+- Web Exploitation
+- File Upload
+- Privilege Escalation
+- HackTheBox
+
+---
 
 # PermX Writeup
 
